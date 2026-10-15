@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marc
-- 👀 I’m interested in many things, from programming (in multiple languages, functional, object oriented, concurrent), to natural languages, philosophy, scuba diving, skiing
-- 🌱 I’m currently learning Go (lang), Kubernetes, Russian...
+- 👀 Now retired. I’m still interested in programming, natural languages, philosophy
+- 🌱 I’m still learning Go (lang), and now Swedish...
 - 💞️ I’m looking to collaborate on ... whatever I find interesting people to collaborate with me -- could be receiver (instead of producer) -focused communications
 - 📫 How to reach me ... marc.girod@gmail.com
 
